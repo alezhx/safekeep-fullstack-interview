@@ -48,7 +48,11 @@ class PieChart extends React.Component {
   render() {
     return (
       <div>
-        <Chart options={this.state.options} series={this.state.series} type="donut"/>
+        <Chart 
+          options={this.state.options} 
+          series={this.state.series} 
+          type="donut"
+        />
       </div>
     );
   }
