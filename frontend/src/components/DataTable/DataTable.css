@@ -1,0 +1,11 @@
+.MuiTableCell-root.MuiTableCell-body {
+  font-size: 1em;
+}
+
+.MuiTableCell-root.MuiTableCell-head {
+  font-size: 1.125em;
+}
+
+.deleteButton {
+  color: #ff4757;
+}
